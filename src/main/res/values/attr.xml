@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="HaoPercentLayout">
+        <attr name="layout_percentwidth" format="float" />
+        <attr name="layout_percentheight" format="float" />
+    </declare-styleable>
+</resources>
