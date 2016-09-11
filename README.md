@@ -40,6 +40,7 @@ badboy自己随意写
             badboy:layout_percentheight="0.3"
             badboy:layout_percentwidth="0.4" />
 ```
+csdn博文链接:http://blog.csdn.net/u012860273/article/details/52485956
     
  
  
